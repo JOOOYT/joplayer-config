@@ -1,0 +1,24 @@
+{
+  "min_supported_version": "1.0.0",
+  "min_supported_build": 1,
+  "blocked_versions": [],
+  "blocked_builds": [],
+  "is_kill_switch_active": false,
+  "lock_message_ar": "تم إيقاف هذا الإصدار لأسباب أمنية. يرجى التحديث إلى أحدث إصدار لمتابعة الاستخدام.",
+  "lock_message_en": "This version has been deactivated for security reasons. Please update to continue using JoPLAYER.",
+  "latest_version": "1.0.0",
+  "latest_build": 1,
+  "force_update": false,
+  "apk_download_url": "https://github.com/JOOOYT/JoPLAYER/releases/latest/download/joplayer.apk",
+  "windows_download_url": "https://github.com/JOOOYT/JoPLAYER/releases/latest/download/joplayer_windows.zip",
+  "web_download_url": "https://github.com/JOOOYT/JoPLAYER/releases",
+  "changelog_ar": "• ترتيب الكاتوجريز بدقة حسب السيرفر\n• تشغيل الفيديو بجودة السيرفر الخام 100%\n• التحكم الكامل بالفل سكرين وأزرار شريط العنوان\n• ميزة 2X بالضغط المطول على المسطرة للبي سي\n• حماية أمنية ونظام رقع وتحديثات أونلاين",
+  "changelog_en": "• Fixed categories ordering according to server\n• Native raw video streaming quality\n• Fullscreen and window control improvements\n• 2X speed spacebar hold feature\n• Anti-tamper security and OTA live patch engine",
+  "live_patches": {
+    "enable_cyber_glow": true,
+    "max_buffer_seconds": 30,
+    "auto_reconnect_attempts": 3
+  },
+  "timestamp": 1758888000,
+  "signature": ""
+}
