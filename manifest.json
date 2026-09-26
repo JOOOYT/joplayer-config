@@ -12,13 +12,17 @@
   "apk_download_url": "https://github.com/JOOOYT/JoPLAYER/releases/latest/download/joplayer.apk",
   "windows_download_url": "https://github.com/JOOOYT/JoPLAYER/releases/latest/download/joplayer_windows.zip",
   "web_download_url": "https://github.com/JOOOYT/JoPLAYER/releases",
-  "changelog_ar": "• إصدار تجريبي 1.0.0 Beta مخصص للاختبار\n• ترتيب الكاتوجريز بدقة حسب السيرفر\n• تشغيل الفيديو بجودة السيرفر الخام 100%\n• حماية أمنية ونظام رقع وتحديثات أونلاين",
-  "changelog_en": "• 1.0.0 Beta testing release\n• Server Categories Sequential Ordering\n• Native raw video streaming\n• OTA Security Guard & Live Patches",
+  "changelog_ar": "• محرك ترجمات فوري وشامل لجميع الأفلام يدعم 12 لغة أونلاين\n• تحكم كامل بحجم خط الترجمة وموضعها الرأسي ومزامنة التوقيت\n• دعم اختيار ملفات ترجمة خارجية (.srt / .vtt) من الجهاز\n• تشغيل الفيديو بجودة السيرفر الخام 100% مع نظام أمان متقدم",
+  "changelog_en": "• Instant universal subtitles engine supporting 12 languages online\n• Full customization: font size, vertical dragging, and sync offset\n• Support for external subtitle files (.srt / .vtt) from device\n• Native raw video streaming quality with anti-tamper security guard",
   "live_patches": {
+    "enable_online_subtitles": true,
+    "default_subtitle_language": "ar",
+    "default_subtitle_font_size": 22.0,
+    "default_subtitle_vertical_offset": 0.08,
     "enable_cyber_glow": true,
     "max_buffer_seconds": 30,
     "auto_reconnect_attempts": 3
   },
-  "timestamp": 1758888000,
+  "timestamp": 1758890000,
   "signature": ""
 }
